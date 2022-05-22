@@ -1,0 +1,31 @@
+.description{
+    background-attachment: fixed;
+    background-image: url("file:///C:/Users/Admin/Desktop/creatu/bootstrap1/images/banner/hero-bg.jpg");
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+}
+.flex-column{
+    margin-top: 300px;
+}
+#button{
+    border-radius: 50px;
+    color: #3dc8b7;
+}
+#hero h1{
+    line-height: 26px;
+    margin: 0;
+    color: #222222;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+   }
+#hero h2{
+       font-size: 25px;
+       color: #6f6f6f;
+       font-family: 'Raleway', sans-serif;
+       line-height: 70px;
+       font-weight: 450;
+ 
+   }
+   

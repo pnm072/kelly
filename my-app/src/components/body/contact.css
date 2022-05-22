@@ -1,0 +1,91 @@
+.contact-head{
+    border-bottom: 2px solid #34b7a7;
+    padding-bottom: 20px;
+    width: 50px;
+    margin-top: -240px;
+ }
+ .dol-item{
+     margin-top: -150px;
+ }
+.input-main input{
+    height: 40px;
+    width: 100%;
+ }
+ .input-main textarea{
+    height: 100px;
+    width: 100%;
+ }
+ .round1 button{
+    border-radius: 20px;
+    border: none;
+    background-color: #34b7a7;
+    color: #fff;
+    font-size: 15px;
+ }
+ .round1{
+    text-align: center;
+
+ }
+
+ .icon-main{
+    border-radius: 50px;
+    height: 44px;
+    width: 44px;
+     padding: 5px 3px;
+    margin-bottom: 0 !important;
+    background-color: #effbf9;
+    transition: 0.3s;
+    font-size: 20px;
+    color: #34b7a7;
+ }
+ .icon-main i{
+    padding: 8px 12px;
+ }
+  .icon-main1{
+    border-radius: 50px;
+    height: 44px;
+    width: 44px;
+     padding: 7px 12px;
+    margin-bottom: 0 !important;
+     background-color: #effbf9;
+     transition: 0.3s;
+      font-size: 20px;
+       color: #34b7a7;
+ }
+ 
+  .icon-main2{
+    border-radius: 50px;
+    height: 44px;
+    width: 44px;
+     padding: 5px 3px;
+    margin-bottom: 0 !important;
+    background-color: #effbf9;
+    transition: 0.3s;
+     font-size: 20px;
+      color: #34b7a7;
+ }
+ .icon-main2 i{
+    padding: 8px 12px;
+ }
+ .icon-main:hover{
+    background-color: #34b7a7;
+ }
+  .icon-main:hover i{
+    color: #fff;
+  }
+  .icon-main1:hover{
+    background-color: #34b7a7;
+ }
+  .icon-main1:hover i{
+    color: #fff;
+  }
+  .icon-main2:hover{
+    background-color: #34b7a7;
+ }
+  .icon-main2:hover i{
+    color: #fff;
+  }
+ 
+.col-lg-4 .h5 .p{
+    line-height: 2px;
+}

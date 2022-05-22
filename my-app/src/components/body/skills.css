@@ -1,0 +1,22 @@
+.progress{
+    height: 10px;
+   
+ }
+ .progress-bar{
+     background-color: #34b7a7;
+ }
+ .text-left{
+     float: left;
+ }
+ .text-right{
+     float: right;
+ }
+ .fuga-item{
+    border-bottom: 2px solid #34b7a7;
+    padding-bottom: 20px;
+    width: 50px;
+    margin-top: -200px;
+}
+.comm-item{
+    margin-top: -140px;
+}

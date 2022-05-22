@@ -1,0 +1,52 @@
+.eum-item{
+    border-bottom: 2px solid #34b7a7;
+    padding-bottom: 20px;
+    width: 50px;
+    margin-top: 50px;
+ }
+ 
+ .resume .resume-title {
+    font-size: 26px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #222222;
+}
+ .resume .resume-item h5 {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 700;
+   
+    color: #1d685f;
+    }
+   
+ .resume .resume-item {
+    padding: 0 0 20px 20px;
+    margin-top: -2px;
+    border-left: 2px solid #34b7a7;
+    position: relative;
+
+}
+.pb-0 {
+    padding-bottom: 8px!important;
+}
+
+.resume .resume-item::before{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border:2px solid #34b7a7;
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    left: -8px;
+}
+.resume .resume-item h6{
+  font-size: 16px;
+    background: #effbf9;
+    padding: 5px 15px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #34b7a7;
+}

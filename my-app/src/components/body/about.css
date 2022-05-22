@@ -1,0 +1,21 @@
+.about .h2{
+    text-align: center;
+    border-bottom: 2px solid #add8e6;
+    width: fit-content;
+    padding-bottom: 12px;
+    }
+    
+    .par-item{
+        padding-bottom: 20px;
+    }
+    .col-md-6 .first-item .li{
+       font-size: 40px;
+       list-style-type: none;
+    }
+    
+  .ex-item{
+      border-bottom: 2px solid #34b7a7;
+      padding-bottom: 20px;
+      width: 50px;
+      margin-top: -210px;
+  }

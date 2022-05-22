@@ -1,0 +1,57 @@
+.portfolio-head{
+    border-bottom: 2px solid #34b7a7;
+    padding-bottom: 20px;
+    width: 50px;
+    margin-top: -230px;
+ }
+ .sus-item{
+     margin-top: -150px;
+ }
+ .filter-active{
+    border-radius: 10px;
+    border: none;
+    background-color: #34b7a7;
+    color: #fff;
+ }
+ .all-main{
+    font-size: 10px;
+ }
+.filter-app{
+    border-radius: 10px;
+    border: none;
+  
+}
+.app-main{
+    font-size: 10px;
+}
+.filter-app:hover{
+    background-color: #34b7a7;
+    color: #fff;
+}
+.filter-card{
+    border-radius: 10px;
+      border: none;
+     
+}
+.card-main{
+    font-size: 10px;
+}
+.filter-card:hover{
+     background-color: #34b7a7;
+     color: #fff;
+}
+.filter-web{
+  border-radius: 10px;
+    border: none;
+
+}
+.web-main{
+    font-size: 10px;
+}
+.filter-web:hover{
+     background-color: #34b7a7;
+     color: #fff;
+}
+.portfolio-content{
+    margin-top: 50px;
+}
